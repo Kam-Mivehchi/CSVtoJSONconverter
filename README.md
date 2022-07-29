@@ -12,6 +12,9 @@ This application utlizes the node.js framework to read a CSV file containing cli
 
 `node index.js`
 
+
+## Part 2
+ ## Solution provided in Part2Solution.md
 ## Author
 Kamyar Mivehchi
 
