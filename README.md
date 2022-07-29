@@ -14,7 +14,7 @@ This application utlizes the node.js framework to read a CSV file containing cli
 
 
 ## Part 2
- ## Solution provided in Part2Solution.md
+  Solution provided in Part2Solution.md
 ## Author
 Kamyar Mivehchi
 
